@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/3977891868_1104900214_223132457.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_3201849554_1354153129.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_1354304104_2578937864.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_3530534509_1666280314.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_3201849554_4146235557.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_1405659363_2728083639.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_140395673_691969773.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_3201849554_565753674.mp4'
+file 'file:D:/imranslab/day2/media/videos/demo/1080p60/partial_movie_files/CombinedAnimation/2852726489_4236153690_2859130054.mp4'
