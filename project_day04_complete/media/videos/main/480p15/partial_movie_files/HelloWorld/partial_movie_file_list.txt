@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/1185818338_3531811053_223132457.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_1839128356_4036230759.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_2369411645_2784080758.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_1839128356_2557283185.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_1139847416_1118876903.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_1762527676_1840483544.mp4'
+file 'file:D:/Way To Job/intership-manim-cinematic-showcase-2025/project_day04_complete -/media/videos/main/480p15/partial_movie_files/HelloWorld/624642324_2408024828_2099897117.mp4'
